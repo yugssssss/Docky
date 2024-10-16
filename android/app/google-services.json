@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "792104812504",
+    "project_id": "docky-d6b55",
+    "storage_bucket": "docky-d6b55.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:792104812504:android:03868a989a781f114ffcad",
+        "android_client_info": {
+          "package_name": "com.docky"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxZD6qJYZr4oXpXkgBU1Bi1T2_9oEr7xk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
